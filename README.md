@@ -1,7 +1,7 @@
 # 💫 About Me:
-🙋‍♂️I'm Zwe Yaung Ni Thit<br>
-⭐️Web Developer sharing about my journey in tech<br>
-👨‍🎓Studying Computer Science at the University of Sunderland/ British United College<br>
+I'm Zwe Yaung Ni Thit<br>
+Web Developer sharing about my journey in tech<br>
+Studying Computer Science at the University of Sunderland/ British United College<br>
 
 
 ## 🌐 Socials:
