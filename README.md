@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hey there 👋
 I'm Zwe Yaung Ni Thit , a computer science graduate based in Myanmar.
 I build complete web applications — from database design to responsive user interfaces. I enjoy working with Laravel on the backend and React with Inertia.js on the frontend.
@@ -18,7 +17,7 @@ This is my GitHub profile where I share my projects — each built from scratch 
 - English - Fluent
 - Japanese - N3
 
-# A Bit More About Me
+# A Bit About Me
 - 🎓 Currently learning and building full-stack applications
 - 💻 I enjoy solving problems and building things that are useful
 - 📖 Always reading and exploring new technologies
