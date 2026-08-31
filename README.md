@@ -1,10 +1,30 @@
 # 💫 About Me:
-I'm Zwe Yaung Ni Thit<br>
-Web Developer sharing about my journey in tech<br>
-Studying Computer Science at the University of Sunderland/ British United College<br>
+Hey there 👋
+I'm Zwe Yaung Ni Thit , a computer science graduate based in Myanmar.
+I build complete web applications — from database design to responsive user interfaces. I enjoy working with Laravel on the backend and React with Inertia.js on the frontend.
+
+I also use Tailwind CSS for styling and Git for version control. I'm always exploring new tools and techniques to improve my workflow.
+
+This is my GitHub profile where I share my projects — each built from scratch with a focus on functionality and clean code.
+
+# Tools & Tech
+- Laravel, PHP, MySQL
+- React, Inertia.js
+- TailwindCSS, Bootstrap
+- Git, GitHub
+
+# Languages
+- Burmese -Native
+- English - Fluent
+- Japanese - N3
 
 
-## 🌐 Socials:
+# My Top Projects
+- 🛍️ E-Commerce Clothing Store — Full-stack shopping platform with cart, wishlist, and admin dashboard
+- 🎓 Student Management System — Comprehensive system for managing students, teachers, courses, and schedules
+- 💰 Point of Sale (POS) System — Retail POS with transaction processing and sales analytics
+
+## 🌐 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zwe-yaung-ni-thit-638941275/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zweyaung9704@gmail.com) 
 
 # 💻 Tech Stack:
