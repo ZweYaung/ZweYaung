@@ -12,17 +12,12 @@ This is my GitHub profile where I share my projects — each built from scratch 
 - TailwindCSS, Bootstrap
 - Git, GitHub
 
-# Languages
-- Burmese - Native
-- English - Fluent
-- Japanese - N3
-
 # A Bit About Me
 - 🎓 Currently learning and building full-stack applications
 - 💻 I enjoy solving problems and building things that are useful
 - 📖 Always reading and exploring new technologies
 - 🎯 Focused on writing clean, maintainable code
-- 🚀 Currently working on improving my skills and looking to learn Java/Springboot next
+- 🚀 Currently working on improving my skills
 
 # My Top Projects
 - 🛍️ E-Commerce Clothing Store — Full-stack shopping platform with cart, wishlist, and admin dashboard
