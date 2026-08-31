@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hey there 👋
-I'm Zwe Yaung Ni Thit , a computer science graduate based in Myanmar.
+I'm Zwe Yaung Ni Thit , a computer science graduand based in Myanmar.
 I build complete web applications — from database design to responsive user interfaces. I enjoy working with Laravel on the backend and React with Inertia.js on the frontend.
 
 I also use Tailwind CSS for styling and Git for version control. I'm always exploring new tools and techniques to improve my workflow.
